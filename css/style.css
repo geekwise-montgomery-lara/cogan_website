@@ -1,0 +1,137 @@
+html,body{
+    width:100%;
+    height:90%;
+    margin:0;
+    padding:0;
+    background-color:#2C4F1C;
+}
+
+header{
+    width:80%;
+    height:20%;
+    background-color:#33A82F;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2%;
+}
+
+#k_town{
+    width:100%;
+    height:50%;
+    text-align:center;
+    background-color:#2E962A;
+    color:white;
+    font-size:2.5em;
+    font-family:Impact, fantasy;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+header > a{
+    width:25%;
+    height:50%;
+    color:white;
+    font-size:1.5em;
+    font-family:Verdana, sans-serif;
+    float:left;
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-decoration:none;
+}
+#k_recorder{
+    
+}
+#khs_website{
+    border-left:1px solid #2C4F1C;
+    border-right:1px solid #2C4F1C;
+    width:90.33%;
+}
+#k_website{
+    border-right:1px solid #2C4F1C;
+    width:90.33%;
+}
+#Game{
+    
+}
+
+geekwise{
+    width:80%;
+    height:10%;
+    background-color:#2E962A;
+    float:left;
+    margin-left:10%;
+    margin-right:auto;
+    margin-top:2%;
+    color:white;
+    font-size:2.5em;
+    font-family:Impact, fantasy;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+geekwise > a{
+    text-decoration:none;
+    color:white;
+}
+
+students{
+    width:80%;
+    height:28%;
+    display:inline;
+    float:left;
+    margin-left:10%;
+    background-color:#33A82F;
+    text-align:center;
+}
+teachers > div > img{
+    width:60%;
+}
+#climate,#roger{
+    color:white;
+    font-family:Verdana, sans-serif;
+}
+#climate{
+    margin-top:2%;
+    margin-left:30%;
+    width:10%;
+}
+#roger{
+    margin-top:-12%;
+    margin-right:30%;
+    width:10%;
+    float:right;
+}
+#roger > img{
+    width:70%;
+}
+class{
+    width:100%;
+    height:200%;
+    font-size:1.2em;
+    display:inline;
+    float:left;
+    background-color:#33A82F;
+    text-align:center;
+}
+#photo > img{
+    width:60%;
+}
+#name_one{
+    width:100%;
+    color:white;
+    font-family:Verdana, sans-serif;
+}
+#name_two{
+    width:100%;
+    color:white;
+    font-family:Verdana, sans-serif;
+}
+footer{
+    width:80%;
+    height:10%;
+    float:left;
+    margin-top:5%;
+    text-align:center;
+}
